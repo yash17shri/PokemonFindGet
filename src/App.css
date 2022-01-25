@@ -1,0 +1,45 @@
+.title {
+  padding-top: 10px;
+  background-color: #39424e;
+  color: white;
+  display:flex;
+  justify-content: center;
+
+}
+
+.content {
+  padding-top: 100px;
+  text-align: center;
+}
+.content-1 {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.cards {
+  margin-top: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+
+}
+.card {
+  border: 5px solid blueviolet !important;
+  border-style: double !important;
+  border-radius: 20px;
+  width: max-content !important;
+}
+
+.card h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+button {
+  margin-top: 10px !important;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+}
